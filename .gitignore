@@ -72,3 +72,26 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+
+# Unreal Engine Defaults
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.cod
+*.bak
+
+# OS Junk
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore huge source assets if you keep them elsewhere
+# RawContent/
